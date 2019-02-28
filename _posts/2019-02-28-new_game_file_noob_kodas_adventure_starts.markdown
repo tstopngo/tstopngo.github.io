@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "New Game File: Noob Koda's Adventure Starts"
-date:       2019-02-28 21:26:05 +0000
+date:       2019-02-28 16:26:06 -0500
 permalink:  new_game_file_noob_kodas_adventure_starts
 ---
 
@@ -11,5 +11,5 @@ Check out my blog posts on Medium. This is the first part to answering the quest
 
 [Part I ](https://medium.com/@404_Not_Found/new-game-file-noob-kodas-adventure-starts-17601176268ettp://)
 
-Part II ...coming soon. (In like 2 days once I clean it up a bit)
+Part II...Coming Soon! "Continue Game File? Noob Koda reloads file..."
 
