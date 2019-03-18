@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Wizard.new("MobSlayer") Classes in the gaming world"
-date:       2019-03-18 02:46:37 +0000
+title:      "Wizard.new("MobSlayer") Classes in games "
+date:       2019-03-17 22:46:38 -0400
 permalink:  wizard_new_mobslayer_classes_in_the_gaming_world
 ---
 
